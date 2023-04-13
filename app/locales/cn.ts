@@ -3,7 +3,7 @@ import { SubmitKey } from "../store/app";
 const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
-    Unauthorized: "现在是未授权状态，请点击左下角设置按钮输入访问密码。",
+    Unauthorized: "现在是未授权状态，请点击左下角设置按钮输入访问密码。\n获取授权码可关注公众号：清寒的小屋，回复“授权码”，即可获取。",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
