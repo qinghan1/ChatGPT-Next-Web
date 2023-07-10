@@ -176,6 +176,7 @@ export function SideBar(props: { className?: string }) {
             <a href="https://flowus.cn/share/440d228f-8d16-4a49-af6b-3ff6eafc8115" target="_blank">
               <IconButton icon={<GithubIcon />} shadow />
               <span>打赏作者</span>
+              </IconButton>
             </a>
           </div>
         </div>
