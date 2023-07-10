@@ -325,3 +325,12 @@
 .rtl-screen {
   direction: rtl;
 }
+
+.button-link {
+  display: flex;
+  align-items: center;
+}
+
+.button-description {
+  margin-left: 8px; /* 根据需要调整文本与图标之间的间距 */
+}
